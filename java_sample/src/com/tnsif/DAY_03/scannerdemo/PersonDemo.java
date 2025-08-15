@@ -1,5 +1,7 @@
 package com.tnsif.DAY_03.scannerdemo;
 
+import java.util.Scanner;
+
 public class PersonDemo {
 	public static void main(String[] args) {
 
