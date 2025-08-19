@@ -1,4 +1,4 @@
-package TNSIF.dayfive.association.hierarchicalinheritance;
+package TNSIF.dayfive.hierarchicalinheritance;
 
 public class Student extends Person
 {

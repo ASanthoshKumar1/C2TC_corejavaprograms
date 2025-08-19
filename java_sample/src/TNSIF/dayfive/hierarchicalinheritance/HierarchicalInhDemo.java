@@ -1,4 +1,4 @@
-package TNSIF.dayfive.association.hierarchicalinheritance;
+package TNSIF.dayfive.hierarchicalinheritance;
 
 public class HierarchicalInhDemo {
 	public static void main(String[] args) {
@@ -17,9 +17,11 @@ public class HierarchicalInhDemo {
 		
 
 		p = new Student("Pankaj", "Pune", "FE", 88);
+		
 		if (p instanceof Student)
 			System.out.println("Student Details "+p);
 
 	}
+
 
 }
