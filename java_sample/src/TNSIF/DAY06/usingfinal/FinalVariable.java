@@ -4,7 +4,7 @@ public class FinalVariable {
 
 	// final int x; // final instance variable must be initialized
 
-	final int x = 100;
+	final int X = 100;
 
 	// Declare a static blank final variable.
 	final static int Y;
@@ -14,13 +14,13 @@ public class FinalVariable {
 
 	// instatnce method
 	void change() {
-		x = 30; // final variables can't be reassigned
+		X = 30; // final variables can't be reassigned
 		Y = 200; // final static variables can't be reassigned
 	}
 
 	@Override
 	public String toString() {
-		return "FinalVariable [x=" + x + ", Y" + Y + "]";
+		return "FinalVariable [x=" + X + ", Y" + Y + "]";
 	}
 
 	// Declare a static block to initialize the final static variable.
