@@ -1,4 +1,4 @@
-package com.tnsif.DAY_09;
+package com.tnsif.DAYnine;
 
 public class StringComparison {
 	public static void main(String[] args) {
