@@ -1,7 +1,7 @@
 package com.tnsif.DAY_09;
 
 public class StringOperationDemo {
-	package DAY09;
+	package TNSIF.DAY09;
 
 	public class StringOperationDemo {
 		public static void main(String[] args) {

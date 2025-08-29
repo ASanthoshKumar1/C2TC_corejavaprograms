@@ -1,4 +1,4 @@
-package DAY09;
+package TNSIF.DAY09;
 
 public class WrapperClassDemo {
 	
