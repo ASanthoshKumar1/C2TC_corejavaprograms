@@ -1,5 +1,5 @@
 //Program to demonstrate HashSet Collection
-package TNSIF.DAY17.builtinobjects;
+package TNSIF.DAY17.userdefinedobjects.builtinobjects;
 
 import java.util.Collections;
 import java.util.HashSet;

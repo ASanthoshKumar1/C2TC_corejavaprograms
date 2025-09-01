@@ -1,6 +1,6 @@
 //Program to demonstrate Student entity 
 //overriding of equals and hashCode methods 
-package com.tnsif.dayseventeen.userdefinedobjects;
+package TNSIF.DAY17.userdefinedobjects;
 
 import java.util.Objects;
 
