@@ -36,7 +36,7 @@ public class JdbcDemo {
 
             // Process result set
             System.out.println("Employee Details:");
-            System.out.println("-------------------------------------------");
+            System.out.println("-----------------------------------------------------------------------------------");
             while (rs.next()) {
               
                 String name = rs.getString("name");

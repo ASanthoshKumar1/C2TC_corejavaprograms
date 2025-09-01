@@ -1,8 +1,10 @@
 package TNSIF.DAY15.generics;
 
-public class GenericClassTest {public static void main(String[] args) {
+public class GenericClassTest {
+	public static void main(String[] args) {
 	//GenericClass with String type of data member
 	GenericClass<String> stringObj=new GenericClass<String>();
+	
 	stringObj.set("Hello");
 	System.out.println(stringObj.get());
 
