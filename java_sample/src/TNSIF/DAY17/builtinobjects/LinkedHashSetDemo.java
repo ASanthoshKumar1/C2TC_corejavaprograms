@@ -1,5 +1,5 @@
 //Program to demonstrate LinkedHashSet Collection
-package TNSIF.DAY17.userdefinedobjects.builtinobjects;
+package TNSIF.DAY17.builtinobjects;
 
 import java.util.ArrayList;
 import java.util.Collections;
