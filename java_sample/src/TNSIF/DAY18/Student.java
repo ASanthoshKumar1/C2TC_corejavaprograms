@@ -1,6 +1,6 @@
 //Program to demonstrate Student entity  
 
-package com.tnsif.dayeighteen;
+package TNSIF.DAY18;
 
 public class Student implements Comparable 
 {

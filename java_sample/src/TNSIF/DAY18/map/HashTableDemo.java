@@ -1,5 +1,5 @@
 //Program to demonstrate Hashtable
-package com.tnsif.dayeighteen.map;
+package TNSIF.DAY18.map;
 
 import java.util.Enumeration;
 

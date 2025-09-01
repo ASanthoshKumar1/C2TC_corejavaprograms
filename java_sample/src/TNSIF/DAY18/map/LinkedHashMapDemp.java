@@ -1,5 +1,5 @@
 //Program to demonstrate LinkedHashMap
-package com.tnsif.dayeighteen.map;
+package TNSIF.DAY18.map;
 
 import java.util.LinkedHashMap;
 
